@@ -1,0 +1,195 @@
+@keyframes backgroundColorPalette {
+  0% {
+    background: #feffde;
+  }
+  25% {
+    background: #60d394;
+  }
+  50% {
+    background: #aaf683;
+  }
+  75% {
+    background: #91c788;
+  }
+  100% {
+    background: #52734d;
+  }
+}
+body {
+  animation-name: backgroundColorPalette;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+}
+B{
+  background-color: aliceblue;
+}
+section{
+    margin: 0%;
+    padding: 0%;
+    background-color: #fff;
+    font-family: "Montserrat";
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width:100px;
+}
+h2,h3{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: "Montserrat";
+    font-size: 1.75rem;
+}
+#services{
+    padding: 150px 1px 0px 0;
+    /* height: 100vh; */
+
+}
+.aboutus h3{
+  padding-top: 100px;
+  text-align: center;
+    font-family: "Montserrat";
+    font-size: 1.75rem;
+
+}
+.aboutus p{
+  padding-top: 100px;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  font-family: 'Montserrat-light', sans-serif;
+    color:rgb(53, 50, 50);
+}
+/* #container1{
+    padding: 150px 100px 0 0;
+    height: 100vh;
+} */
+#features{
+    padding: 7% 10%;
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+  #Cultureandcuisine p{
+    font-family: 'Montserrat-light', sans-serif;
+    color:grey;
+  }
+  .btn-group{
+    position: relative;
+    padding-left: 275px;
+
+  }
+  
+  .vert{
+    padding: 0px 20px 0px 10px;
+  }
+.icon{
+    color: #1a7c64c9;
+    margin-bottom: 1rem;
+  }
+h3{
+    font-family: "Montserrat";
+    font-size: 1.75rem;
+  }
+  h4{
+    font-family: "Montserrat";
+    font-size: 1.75rem;
+    padding-top: 50px;
+    padding-left: 700px;
+  }
+.description{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+    font-family: 'Montserrat-light', sans-serif;
+    color:grey;
+
+}
+.cc{
+  padding: 150px 150px 150px 0px;
+
+}
+.icon:hover{
+    color:#04382d;
+  }
+  #features p{
+    font-family: 'Montserrat-light', sans-serif;
+    color:grey;
+  }
+  .row2{
+    text-align: center;
+    padding:100px 100px;
+  
+  }
+  .row{
+    padding-bottom: 120px;
+  }
+.districtbody{
+  background-color: #f8f4e1
+}
+     */
+h1{
+    text-align: center;
+}
+p{
+    font-size: x-large;
+   
+   
+}
+.f{
+  text-align: center;
+  padding: 3% 3%;
+}
+.districtheading{
+  padding-top: 100px;
+
+}
+#foo{
+  color: #fff;
+  text-align: center;
+  padding-left: 800px;
+  padding-right: 1000px;
+}
+
+footer{
+  color: #fff;
+  text-align: center;
+  padding: 3% 3%;
+}
+.col p{
+  padding-left: 50px;
+  text-align: center;
+}
+#carouselExampleCaptions{
+    height: 100vh;
+    width: 100vw;
+}
+#carouselExampleCaptions img{
+    height: 100vh;
+    width: 100vw;
+}
+#pricing{
+  padding: 10px;
+  text-align: center;
+}
+.price-col{
+  padding:3% 4%;
+}
+.intro{
+
+    
+}
+.row{
+  padding-top: 200px;
+}
+/* .fixdiv{
+    background-size: cover;
+    height: 100vh;
+    background-position: left;
+    
+} */
